@@ -1,0 +1,16 @@
+TÍTULO : Atribuição de VLANs em Alguns Pontos.
+
+
+CORPO DO CHAMADO :
+
+
+Necessário fazer virada a pedido da usuária
+
+                                -------------(NUMERO DO ANDAR HCB)------------
+
+
+Tomada XXXXX  - PORTA XX Do Sw de Ip XX.XX.XX.XX -  SW do lado X (LADO DO PRÉDIO E SE É O DE CIMA OU O DE BAIXO)
+Tomada XXXXX -- PORTA XX Do Sw de Ip XX.XX.XX.XX - SW do lado X  (LADO DO PRÉDIO E SE É O DE CIMA OU O DE BAIXO)
+Tomada XXXX --PORTA XX Do Sw de Ip XX.XX.XX.XX -   SW do lado X  (LADO DO PRÉDIO E SE É O DE CIMA OU O DE BAIXO)
+
+Roteando chamado para Suporte N2 Unid. FAEPA Ribeirão Preto - SP
